@@ -1,4 +1,4 @@
 # Graveyard-Dog
-Small Puzzle/Action game that I am developing to broaden my skills with project/game development and C#
+Small Puzzle/Action game in development
 
-All coding related scripts are located in Assets/Scripts.
+Your a skeleton dog who has just awoken from a deep slumber and have found yourself far away from home. Solve bone-related puzzles to get back home!
